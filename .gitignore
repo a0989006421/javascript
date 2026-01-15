@@ -1,7 +1,1 @@
-# gitignore
-
-node_modules
-
-# Only apps should have lockfiles
-yarn.lock
-package-lock.json
+<script src="https://gist.github.com/a0989006421/9fc410310e43090ef4d87395fb709bde.js"></script>
