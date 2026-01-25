@@ -1,4 +1,4 @@
-{
+packages/eslint-config-airbnb-base/package.json{
   "name": "eslint-config-airbnb-base",
   "version": "14.0.0",
   "description": "Airbnb's base JS ESLint config, following our styleguide",
